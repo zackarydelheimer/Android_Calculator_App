@@ -6,7 +6,7 @@ To run the application:
 
 1. Simply clone the repository in GitHub Desktop
 
-2. Choose to open the project in Android Studio
+2. Open the project in Android Studio
 
 3. Select an emulator in the device manager 
 (The layout works best with taller screens but can be used with just about any emulator)
